@@ -1,3 +1,22 @@
+icons-humbleicons (1.0.1) unstable; urgency=medium
+
+  * Align packaging/Meson/man pages to current zephyr style (zfr ize).
+  * add README.md: from bash template (banner stripped)
+  * add README-zh_CN.md: from bash template (banner stripped)
+  * add packaging/README.md: from bash template
+  * add packaging/lib/host.sh: from bash template
+  * add packaging/lib/common.mk: from bash template
+  * add packaging/rpm/Makefile: from bash template
+  * add packaging/rpm/.gitignore: from bash template
+  * add packaging/win32/Makefile: from bash template
+  * add packaging/win32/README.md: from bash template
+  * add packaging/win32/.gitignore: from bash template
+  * add packaging/win32/build-host.example: from bash template
+  * add packaging/win32/mingw/Makefile: from bash template
+  * …and 29 more path updates.
+
+ -- Lenik (谢继雷) <lenik@bodz.net>  Sat, 12 Sep 2026 03:39:23 +0800
+
 icons-humbleicons (1.0.0) unstable; urgency=medium
 
   * Packaging as icons-humbleicons with iconlibutils launcher.

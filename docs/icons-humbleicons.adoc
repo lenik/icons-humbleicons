@@ -1,0 +1,34 @@
+= icons-humbleicons(1)
+{project-author} <{project-email}>
+v{project-version}, {project-year}
+:doctype: manpage
+:manmanual: User Commands
+:mansource: icons-humbleicons
+:man-linkstyle: blue R <>
+:nofooter:
+
+== Name
+
+icons-humbleicons - Humbleicons
+
+== Synopsis
+
+*icons-humbleicons* [_OPTION_]...
+
+== Description
+
+Humbleicons.
+
+== Options
+
+*-h, --help*::
+  Show a short usage summary and exit.
+
+== Author
+
+Written by {project-author} <{project-email}>.
+
+== Copyright
+
+Copyright (C) {project-year}.
+License AGPL-3.0-or-later.
