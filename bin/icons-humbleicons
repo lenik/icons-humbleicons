@@ -1,2 +1,2 @@
 #!/bin/sh
-exec iconlibutils -l humbleicons "$@"
+exec iconlib -l humbleicons "$@"

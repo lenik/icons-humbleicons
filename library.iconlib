@@ -1,4 +1,4 @@
-# Installed by icons-humbleicons — discovered as /usr/share/iconlibutils/library/humbleicons/
+# Installed by icons-humbleicons as /usr/share/iconlibutils/library/humbleicons
 name=humbleicons
 type=auto
 path=/usr/share/icons-humbleicons
@@ -7,3 +7,5 @@ license=MIT
 homepage=https://humbleicons.com/
 description=Humbleicons
 package=icons-humbleicons
+icons_root=orig/icons
+faiss_index=/usr/share/icons-humbleicons
