@@ -1,0 +1,20 @@
+Source: icons-humbleicons
+Section: graphics
+Priority: optional
+Maintainer: Lenik <icons-humbleicons@bodz.net>
+Build-Depends: debhelper-compat (= 13), meson, ninja-build, python3, iconlibutils
+Standards-Version: 4.6.2
+Homepage: https://humbleicons.com/
+Vcs-Browser: https://github.com/lenik/pkg-icons-humbleicons
+Vcs-Git: https://github.com/lenik/pkg-icons-humbleicons.git
+Rules-Requires-Root: no
+
+Package: icons-humbleicons
+Architecture: all
+Depends: ${misc:Depends},
+         iconlibutils
+Description: Humbleicons
+ Humbleicons
+ .
+ Provides icon assets under /usr/share/icons-humbleicons, a preview index, and a
+ launcher `icons-humbleicons` (`iconlibutils -l humbleicons`).
