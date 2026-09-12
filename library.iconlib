@@ -8,4 +8,4 @@ homepage=https://humbleicons.com/
 description=Humbleicons
 package=icons-humbleicons
 icons_root=orig/icons
-faiss_index=/usr/share/icons-humbleicons
+faiss_index=faiss
